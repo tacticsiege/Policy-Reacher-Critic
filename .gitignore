@@ -109,3 +109,10 @@ venv.bak/
 
 # VS Code
 .vs/
+
+# unity environments
+Reacher_Windows_x86_64/
+
+# saved agent checkpoints
+saved_agents/*/.checkpoints/
+
